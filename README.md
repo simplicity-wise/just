@@ -1,2 +1,2 @@
 # just
-dont check this
+mainly a proof of concept. nothing special.
